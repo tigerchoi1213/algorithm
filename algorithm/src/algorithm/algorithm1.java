@@ -148,7 +148,7 @@ public class algorithm1 {
 		System.out.println("##### end #####");
 	}
 
-	public static void algorithm2() {
+	public static void algorithm2() { 
 		System.out.println("##### start #####");
 
 		Scanner sc = new Scanner(System.in);
@@ -158,7 +158,7 @@ public class algorithm1 {
 		int[] intArr = new int[inputVal];
 		int sum = 0;
 
-		for (int i = 0; i < inputVal; i++) {
+		for (int i = 0; i < inputVal; i++) { 
 			System.out.println("ют╥б(" + (i + 1) + ")");
 
 			int inputX = sc.nextInt();
