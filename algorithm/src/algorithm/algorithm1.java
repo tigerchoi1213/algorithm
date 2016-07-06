@@ -148,7 +148,7 @@ public class algorithm1 {
 		System.out.println("##### end #####");
 	}
 
-	public static void algorithm2() { 
+	public static void algorithm2() {
 		System.out.println("##### start #####");
 
 		Scanner sc = new Scanner(System.in);
